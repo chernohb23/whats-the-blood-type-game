@@ -1,0 +1,153 @@
+#one{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: -670px;
+    right: 0;
+    margin-inline: auto;
+}
+#two{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-inline: auto;
+}
+#three{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: 670px;
+    right: 0;
+    margin-inline: auto;
+}
+#a{
+    font-size: 30px;
+    position: absolute;
+    margin-top: 270px;
+    left: 50%;
+    transform: translateX(-455%);
+}
+#b{
+    font-size: 30px;
+    position: absolute;
+    margin-top: 270px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#rh{
+    font-size: 30px;
+    position: absolute;
+    margin-top: 270px;
+    left: 50%;
+    transform: translateX(290%);
+}
+#a_plus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#a_minus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#b_plus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#b_minus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#ab_plus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#ab_minus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#o_plus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#o_minus{
+    height: 95px;
+    width: 95px;
+    font-size: 30px;
+}
+#head{
+    text-align: center;
+}
+#text{
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    padding-inline: 200px;
+}
+#status{
+    opacity: 0;
+    margin-top: -80px;
+    text-align: center;
+}
+#buttons{
+    text-align: center;
+    margin-top: 380px;
+    display: none;
+}
+#timer{
+    font-size: 20px;
+    display: none;
+}
+#start{
+    width: 520px;
+    height: 260px;
+    font-size: 80px;
+}
+#play{
+    margin-top: 80px;
+    text-align: center;
+    display: block;
+}
+#pics{
+    display: none;
+}
+#names{
+    display: none;
+}
+#game{
+    font-size: 20px;
+    display: none;
+}
+#results{
+    font-size: 20px;
+    text-align: center;
+    display: none;
+}
+#final{
+    font-size: 50px;
+    text-align: center;
+    display: none;
+}
+#again{
+    width: 520px;
+    height: 260px;
+    font-size: 80px;
+}
+#restart{
+    text-align: center;
+    display: none;
+}
+#questions{
+    font-size: 20px;
+    float:right;
+    display: none;
+}
+
